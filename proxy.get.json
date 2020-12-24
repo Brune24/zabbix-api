@@ -1,0 +1,9 @@
+{
+    "jsonrpc": "2.0",
+    "method": "proxy.get",
+    "params": {
+        "output": ["hostid", "host"]
+    },
+    "auth": TOKEN,
+    "id": 1
+}
