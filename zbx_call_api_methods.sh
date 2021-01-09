@@ -72,7 +72,7 @@ main(){
     declare -r options=("quit" "drule.create" "drule.get" "proxy.get")
     declare -r zbxAPI='http://x.x.x.x/zabbix/api_jsonrpc.php'
     declare -r header='Content-Type:application/json'
-    declare -r zbxUser='paul.sauliere'
+    declare -r zbxUser=''
     declare -r zbxPwd=''
     
     menu
